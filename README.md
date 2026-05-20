@@ -20,6 +20,7 @@
 - 📝 Published in **Elsevier Future Generation Computer Systems** and multiple international conferences
 - 🏫 Graduate **Teaching Assistant** for databases and programming courses
 - 🌍 Open source contributor @ [Khalis Foundation](https://github.com/KhalisFoundation)
+- 🤝 **Graduate International Student Leader** @ Laurier International — mentoring international students transitioning to university life
 
 ---
 

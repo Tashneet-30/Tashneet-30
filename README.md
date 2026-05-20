@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Tashneet 👋</h1>
+<h1 align="center">Hey, I'm Tashneet Kaur 👋</h1>
 
 <p align="center">
   MSc Computing student @ Wilfrid Laurier · Researcher · Open Source Contributor<br/>

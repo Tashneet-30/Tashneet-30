@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ### 🧠 What I'm about
 
 - 🎓 Pursuing a **Master of Applied Computing (Thesis)** at Wilfrid Laurier University
-- 🔬 Researching **Digital Twins, AI Agents, and Transportation Analytics**
+- 🔬 Researching **Electric Vehicles Infrastructure Planning, Digital Twins, Transportation Analytics, Smart Mobility, and AI Agents**
 - 📝 Published in **Elsevier Future Generation Computer Systems** and multiple international conferences
 - 🏫 Graduate **Teaching Assistant** for databases and programming courses
 - 🌍 Open source contributor @ [Khalis Foundation](https://github.com/KhalisFoundation)

@@ -21,6 +21,7 @@
 - 🏫 Graduate **Teaching Assistant** for databases and programming courses
 - 🌍 Open source contributor @ [Khalis Foundation](https://github.com/KhalisFoundation)
 - 🤝 **Graduate International Student Leader** @ Laurier International — mentoring international students transitioning to university life
+- 🔒 Former **SOC Analyst & Service Delivery Manager** @ SafeAeon
 
 ---
 
@@ -55,16 +56,7 @@
 
 ### 🏆 Highlights
 
-- 📰 Paper accepted in **Future Generation Computer Systems (Elsevier)** on Digital Twin-based demand forecasting
+- 📚 [**Google Scholar Profile**](https://scholar.google.com/citations?user=53ldLF4AAAAJ&hl=en) — published across Elsevier, NIT Patna, and international conferences
 - 🥉 **3rd Place** – CSIR-CRRI Young Researchers' Conclave, National Level, New Delhi (2023)
 - 🎓 **William Nikolaus Martin Science Scholarship** & **Laurier Graduate Scholarship** (2025)
 - 🎤 Led **English Club** as President, mentoring 500+ students over 3 years
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tashneet-30&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tashneet-30&layout=compact&theme=tokyonight&hide_border=true" />
-</p>

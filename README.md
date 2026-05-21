@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 -->
 ---
 
-### 🧠 What I'm about
+### 🧠 About Me
 
 - 🎓 Pursuing a **Master of Applied Computing (Thesis)** at Wilfrid Laurier University
 - 🔬 Researching **Electric Vehicles Infrastructure Planning, Digital Twins, Transportation Analytics, Smart Mobility, and AI Agents**

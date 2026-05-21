@@ -1,8 +1,8 @@
 
 <h1 align="center">Hey, I'm Tashneet Kaur 👋</h1>
 
-<!--
-**Tashneet-30/Tashneet-30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 <p align="center">
   MSc Computing student @ Wilfrid Laurier · Researcher · Open Source Contributor<br/>
   Waterloo, Ontario, Canada
@@ -15,16 +15,8 @@ Here are some ideas to get you started:
   <a href="mailto:kaur6910@mylaurier.ca"><img src="https://img.shields.io/badge/Email-kaur6910%40mylaurier.ca-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
----
+
+
 
 ### 🧠 About Me
 

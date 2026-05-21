@@ -8,7 +8,7 @@
   Waterloo, Ontario, Canada
 </p>
 
-Here are some ideas to get you started:
+
 <p align="center">
   <a href="https://linkedin.com/in/tashneet-kaur"><img src="https://img.shields.io/badge/LinkedIn-Tashneet%20Kaur-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   &nbsp;

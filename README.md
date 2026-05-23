@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  MSc Computing student @Wilfrid Laurier University · Researcher · Open Source Contributor<br/>
+  MAC(Thesis) student @Wilfrid Laurier University · Researcher · Open Source Contributor<br/>
   Waterloo, Ontario, Canada
 </p>
 

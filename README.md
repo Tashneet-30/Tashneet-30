@@ -75,4 +75,4 @@
 - 📚 [**Google Scholar Profile**](https://scholar.google.com/citations?user=53ldLF4AAAAJ&hl=en) — published across Elsevier, NIT Patna, and international conferences
 - 🥉 **3rd Place** – CSIR-CRRI Young Researchers' Conclave, National Level, New Delhi (2023)
 - 🎓 **William Nikolaus Martin Science Scholarship** & **Laurier Graduate Scholarship** (2025)
-- 🎤 Led **English Club** as President, mentoring 500+ students over 3 years
+- 🎤 Led **English Club, GNDEC, Ludhiana, Punjab, India** as President, mentoring 500+ students over 3 years
